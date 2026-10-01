@@ -4,8 +4,9 @@ using Verse;
 namespace MultiplayerRailsAndRoadsOfTheRimContinuedPatch.Source.Mods;
 
 /// <summary>
-///     Multiplayer Patch for Rails and Roads of the Rim (Continued) by Mlie, Last Update: 14 Sep @ 9:28pm 2026
-///     https://steamcommunity.com/sharedfiles/filedetails/?id=3271115410
+///     Multiplayer Patch for Rails and Roads of the Rim (Continued) by Mlie,
+///     Last Update: 14 Sep @ 9:28pm 2026
+///     <see href=" https://steamcommunity.com/sharedfiles/filedetails/?id=3271115410" />
 /// </summary>
 [MpCompatFor("Mlie.RailsAndRoadsOfTheRim")]
 public class RailsAndRoadsOfTheRimContinued
